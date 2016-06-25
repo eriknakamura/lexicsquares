@@ -30,3 +30,6 @@ The list:
 - Plenty of work can be done to the list. 
 - There are two versions, one with, and one without proper nouns. 
 
+Scoring:
+- A few details on scoring can be found here:
+- If you want to contribute to the scoring program, or have any suggestions as to how it should be implemented, please do. 
