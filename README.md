@@ -22,7 +22,7 @@ The rules:
 
 - All words from the given list MUST be used
 - Words are given in a line-delineated .txt list.
-- Answers are submited in a line-delineated .txt where the first element is the dimentions of the lexic square, and each subsequent word has its coordinates in the square where the top left corner is (0,0). If you have a better way to submit answers, please submit it. Program for calculating score is still in the works, if you would like to help, please do.
+- Answers are submited in a line-delineated .txt where the first element is the dimensions of the lexic square, and each subsequent word has its coordinates in the square where the top left corner is (0,0). If you have a better way to submit answers, please submit it. Program for calculating score is still in the works, if you would like to help, please do.
 
 The list:
 - The list is provided by SCOWL (And Friends), thier website can be found here: [SCOWL]
