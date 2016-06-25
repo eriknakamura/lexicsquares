@@ -25,11 +25,15 @@ The rules:
 - Answers are submited in a line-delineated .txt where the first element is the dimentions of the lexic square, and each subsequent word has its coordinates in the square where the top left corner is (0,0). If you have a better way to submit answers, please submit it. Program for calculating score is still in the works, if you would like to help, please do.
 
 The list:
-- The list is provided by SCOWL (And Friends), thier website can be found here: http://wordlist.aspell.net/.
+- The list is provided by SCOWL (And Friends), thier website can be found here: [SCOWL]
 - The list is edited to contain no possesives or puncuation ('s)
 - Plenty of work can be done to the list. 
 - There are two versions, one with, and one without proper nouns. 
 
 Scoring:
-- A few details on scoring can be found here:
+- A few details on scoring can be found here: [Basic Lexic Square Scoring Theory]
 - If you want to contribute to the scoring program, or have any suggestions as to how it should be implemented, please do. 
+
+
+[SCOWL]: http://wordlist.aspell.net/
+[Basic Lexic Square Scoring Theory]: https://github.com/eriknakamura/lexicsquares/blob/master/LexicSquareScoring.pdf
