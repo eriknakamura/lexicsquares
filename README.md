@@ -2,7 +2,7 @@
 
 The Basic Concept:
 
-Imagine a list with every word in the english language. Now try and take that list and condense it into a shape that takes up the least amount of area when inscibed in a square.
+Imagine a list with every word in the English language. Now try and take that list and condense it into a shape that takes up the least amount of area when inscribed in a square.
 
 EX.
 
@@ -22,18 +22,18 @@ The rules:
 
 - All words from the given list MUST be used
 - Words are given in a line-delineated .txt list.
-- Answers are submited in a line-delineated .txt where the first element is the dimensions of the lexic square, and each subsequent word has its coordinates in the square where the top left corner is (0,0). If you have a better way to submit answers, please submit it. Program for calculating score is still in the works, if you would like to help, please do.
+- Answers are submitted in a line-delineated .txt where the first element is the dimensions of the lexic square, and each subsequent word has its coordinates in the square where the top left corner is (0,0). If you have a better way to submit answers, please submit it. Program for calculating score is still in the works, if you would like to help, please do.
 
 The list:
-- The list is provided by SCOWL (And Friends), thier website can be found here: [SCOWL]
-- The list is edited to contain no possesives or puncuation ('s)
-- Plenty of work can be done to the list. 
-- There are two versions, one with, and one without proper nouns. 
+- The list is provided by http://www.mieliestronk.com/
+- The list is all lower case
+- Theoretically the list does not matter. Any list of unique character sequences can be condensed into a lexic square.
+- The current official list is in NOT in American spelling, but again, this does not effect anything. A good lexic square algorithm should be able to produce a lexic square when fed any list.
 
 Scoring:
 - A few details on scoring can be found here: [Basic Lexic Square Scoring Theory]
 - If you want to contribute to the scoring program, or have any suggestions as to how it should be implemented, please do. 
 
 
-[SCOWL]: http://wordlist.aspell.net/
+
 [Basic Lexic Square Scoring Theory]: https://github.com/eriknakamura/lexicsquares/blob/master/LexicSquareScoring.pdf
