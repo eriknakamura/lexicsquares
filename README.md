@@ -2,7 +2,7 @@
 
 The Basic Concept:
 
-Imagine a list with every word in the english language. Now try and take that list and condense it into a shape that takes up the least amount of area when transcibed in a square.
+Imagine a list with every word in the english language. Now try and take that list and condense it into a shape that takes up the least amount of area when inscibed in a square.
 
 EX.
 
