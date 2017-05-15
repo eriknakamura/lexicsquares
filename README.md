@@ -7,10 +7,10 @@ Imagine a list with every word in the English language. Now try and take that li
 EX.
 
 Take this list with 6 words:
-![alt tag](https://raw.githubusercontent.com/eriknakamura/lexicsquares/master/wordListImg.png)
+![alt tag](https://raw.githubusercontent.com/eriknakamura/lexicsquares/master/pics/wordListImg.png)
 
 One method of condensing them is to overlap them:
-![alt tag](https://raw.githubusercontent.com/eriknakamura/lexicsquares/master/lexicsquares_example.png)
+![alt tag](https://raw.githubusercontent.com/eriknakamura/lexicsquares/master/pics/lexicsquares_example.png)
 
 This creates a square that is 13x13 units large.
 
@@ -33,7 +33,7 @@ The rules:
 - Answers are submitted in a line-delineated .txt where the first element is the dimensions of the lexic square, and each subsequent word has its coordinates in the square where the top left corner is (0,0). If you have a better way to submit answers, please submit it. Program for calculating score is still in the works, if you would like to help, please do.
 
 The list:
-- There are several lists to play with as of right now, a 100 and 1000 words list sourced from Education First at http://www.ef.edu/
+- There are several lists to play with as of right now, a 100, 1000, and 3000 words list sourced from Education First at http://www.ef.edu/
 - The list is all lower case
 - Theoretically the list does not matter. Any list of unique character sequences can be condensed into a lexic square.
 - I'm working on putting together some longer lists. 
