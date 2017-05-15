@@ -33,10 +33,12 @@ The rules:
 - Answers are submitted in a line-delineated .txt where the first element is the dimensions of the lexic square, and each subsequent word has its coordinates in the square where the top left corner is (0,0). If you have a better way to submit answers, please submit it. Program for calculating score is still in the works, if you would like to help, please do.
 
 The list:
-- The list is provided by http://www.mieliestronk.com/
+- There are several lists to play with as of right now, a 100 and 1000 words list sourced from Education First at http://www.ef.edu/
 - The list is all lower case
 - Theoretically the list does not matter. Any list of unique character sequences can be condensed into a lexic square.
-- The current official list is in NOT in American spelling, but again, this does not effect anything. A good lexic square algorithm should be able to produce a lexic square when fed any list.
+- I'm working on putting together some longer lists. 
+- The Java application lexicSquareListEditing has some list editing features that DO NOT ALL WORK, the only feature on it I trust is the word and letter count future (option 4 in the menu).
+- See the files for the lists.
 
 Scoring:
 - A few details on scoring can be found here: [Basic Lexic Square Scoring Theory]
