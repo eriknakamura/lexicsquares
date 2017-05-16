@@ -31,7 +31,7 @@ The rules:
 - Answers are submitted in a line-delineated .txt where the first element is the dimensions of the lexic square, and each subsequent word has its coordinates in the square where the top left corner is (0,0). If you have a better way to submit answers, please submit it. Program for calculating score is still in the works, if you would like to help, please do.
 
 The list:
-- There are several lists to play with as of right now, a 100, 1000, and 3000 words list sourced from Education First at http://www.ef.edu/
+- There are several lists to play with as of right now, a 100, 1000, and 3000 words list sourced from Education First at http://www.ef.edu/. These are a list of common words, so not a random sample. Then there is the big list with 58,110 words that covers a wide range of not just common words.
 - The list is all lower case
 - Theoretically the list does not matter. Any list of unique character sequences can be condensed into a lexic square.
 - I'm working on putting together some longer lists. 
