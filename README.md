@@ -22,9 +22,7 @@ There are more ways to condense words that involve detecting similarities in spe
 
 But Why Condense?
 
-When words in a lexic square are condensed they must have some similarities. The most obvious similarity revealed by a lexic square (although there are others), is spelling. Words that are spelled similary will either have a higher affinty for eachother or another distinct set of words. This is why the lexic square challenge is being issued. The goal is to create as many lexic squares as possible, and observe how higher scores (scores that aproach or exeed 1) move certain words or groups of words closer together. A crude example might be that as lexic squares aproach a more optimum state, words that originate from the same lexeme will end up closer together. Large sets of lexic squares will allow for a system to be built that can corrolate optimim compression with the geographical distribution of the words in the square.
-
-With that data, the goal is to create a ideographic dictionary of words arranged in a lexic square. This dictionary would essencially be a lexic square, but with more rules applied. For example, words are not only put closer together if they can be compressed, but also if they are associated. So "sour" and "lemon" would be put as close to eachother as possible. That is why in conjuction to figuring out how to form good lexic squares, I am also interested in figuring out how to create a database of assocated words. Lexic squares form the perfect ideographic dictionaries because if one wishes to find words associated to a specific word, all they have to do is find the word in the lexic square (can be done quickly from the word list) and look for words around that word in the lexic square.
+To see who can create the best condensing algorithm. Also, lexic squares pose an interesting challenge that is the first step in understanding how to create an ideographic dictionary for a large group of words with various levels of connection. The basic lexic square format will group words based on how well they can fit together in a geometric space, however, other factors such as meaning, connotation, and associates can be applied to make some words have a higher affinity for one another. The scoring system would change to not just rank lexic squares by their size, but also by how closely words that are known to have similar meanings and/or connotations are to one another. This would create a map of words, a geometric ideographic dictionary of sorts, where one could find a word, and look around it to find other words that relate. The physical distance between words would be a measure of their association, as opposed to just a ranking that a traditional thesaurus would provide. 
 
 The rules:
 
@@ -37,7 +35,7 @@ The list:
 - The list is all lower case
 - Theoretically the list does not matter. Any list of unique character sequences can be condensed into a lexic square.
 - I'm working on putting together some longer lists. 
-- The Java application lexicSquareListEditing has some list editing features that DO NOT ALL WORK, the only feature on it I trust is the word and letter count future (option 4 in the menu).
+- The Java application lexicSquareListEditing has some list editing features that DO NOT ALL WORK, the only feature on it I trust is the word and letter count features (option 4 in the menu).
 - See the files for the lists.
 
 Scoring:
